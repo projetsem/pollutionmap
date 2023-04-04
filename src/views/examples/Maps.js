@@ -1,6 +1,5 @@
 
 import React from "react";
-import { Marker } from "react-native-maps";
 // reactstrap components
 import { Card, Container, Row } from "reactstrap";
 
